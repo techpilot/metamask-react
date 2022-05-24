@@ -1,8 +1,7 @@
-# Atila Client Web App
+# Metamask-react Web App
 
-The open source version of the client web app for atila.ca
+The open source version of the client web app for
 https://demo.atila.ca
-
 
 [![Build Status](https://travis-ci.com/atilatech/client-web-app.svg?branch=master)](https://travis-ci.com/atilatech/client-web-app)
 

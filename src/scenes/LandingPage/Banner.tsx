@@ -43,11 +43,11 @@ function Banner(props: BannerProps){
                     key="text"
                 >
                     <h1 key="h1" className="mt-4">
-                    Atila
+                    Crypto
                     </h1>
                     <h2 key="h2" className="text-center">
 
-                    The best way to <br/> start and get scholarships.
+                    The best way to <br/> start and get cryptocurrencies.
                     </h2>
                     <form className="col-sm-12"
                         onSubmit={onSubmit}
