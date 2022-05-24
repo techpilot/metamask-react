@@ -14,3 +14,6 @@ You can also install `yarn` with `npm install -g yarn`
 `yarn install`
 
 `yarn start`
+
+Thanks for using Metamask-react!
+and to Ademidun for the initial idea!
